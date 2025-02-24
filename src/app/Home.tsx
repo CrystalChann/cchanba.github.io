@@ -12,6 +12,7 @@ const Home: React.FC = () => {
       <div>
         <Image
           src={require('../../public/IMG_20240312_092001.jpg')}
+          loader={({src}) => src}
           alt="selfImage"
           width="200"
           height="200" 
