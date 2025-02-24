@@ -19,8 +19,8 @@ const Home: React.FC = () => {
           style={styles.image}
         />
         
-        { /* <h1 style={styles.name}>Hi! Crystal Here!</h1>
-        <a
+        <h1 style={styles.name}>Hi! Crystal Here!</h1>
+        { /* <a
           href="/public/Chan_Ching_CV.pdf"
           download="Crystal_Ching_CHAN_Resume.pdf"
           style={styles.downloadLink}
